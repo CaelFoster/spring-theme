@@ -1,0 +1,21 @@
+{
+  "name": "spring-theme",
+  "displayName": "SpringTheme :)",
+  "description": "my personal theme for me ",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Spring Theme ^-^",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Spring Theme ^-^-color-theme.json"
+      }
+    ]
+  }
+}
