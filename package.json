@@ -3,6 +3,7 @@
   "displayName": "SpringTheme :)",
   "description": "my personal theme for me ",
   "version": "0.0.1",
+  "publisher": "TonyPeriod",
   "author":{
     "name": "CaelFoster"
   },
@@ -19,7 +20,9 @@
   },
   "icon": "goatGuy128x.jpg",
   "engines": {
-    "vscode": "^1.77.0"
+    "vscode": "^1.77.0",
+    "node": "20.0.0",
+    "npm": "9.6.4"
   },
   "categories": [
     "Themes"
